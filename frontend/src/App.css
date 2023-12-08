@@ -1,0 +1,42 @@
+.icon-custom:hover{
+  cursor: pointer;
+}
+
+.section-content{
+  margin: auto;
+  width: 80%;
+}
+.name-section{
+  text-align: center;
+}
+
+.mb-20{
+  margin-bottom: 10px !important;
+}
+
+.selected-file{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.selected-file-name{
+  display: flex;
+
+  align-items: flex-start;
+
+  background-color:green;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 15px;
+  color: white;
+}
+
+
+a:hover{
+  cursor: pointer;
+}
+
+.container{
+  /* margin-bottom: 50px; */
+}
