@@ -1,6 +1,7 @@
 # MERN-App-File-Upload Project
 
 Steps to setup the project
+
 1.Take pull of the main branch.
 
 2.Open the project in a code editor.
@@ -8,13 +9,16 @@ Steps to setup the project
 3.Install dependencies using "npm i" command for both backend and frontend in respective folders/directory.
 
 4.For running project 
+
   a.For Backend run "node server.js" or "nodemon server.js" command.
+  
   b.For Frontend run "npm start" command".
   
 5.When both backend and frontend are running successfully then go to "localhost:3000" on your browser.
 
 6. Backend will run on "localhost:3001" port.
-7. MongoDB database credentials are alredy set in the config.env file in backend, you can use this database or can connect yours and set  
+   
+8. MongoDB database credentials are alredy set in the config.env file in backend, you can use this database or can connect yours and set  
    credentials in the cofig.env file.
    
 8.Once you go on to localhost:3000 on your browser, you will land on login screen.
